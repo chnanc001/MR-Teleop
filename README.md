@@ -101,3 +101,10 @@ REBOOT CONTROLLERS:
 qlacommand -c reboot
 
 
+For UDP communication:
+make sure ip in json file in /catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/share/socket-streamer e.g. streamerPSM1.json (if just using PSM1), is same as target device (laptop or hololens 2)
+
+
+
+
+
