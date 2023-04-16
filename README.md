@@ -1,7 +1,7 @@
 # MR-Teleop
 
 ## To Install on dVRK computer
-- `source /opt/ros/melodic/setup.bash`
+- `source /opt/ros/melodic/setup.bash # or whichever ros version is used`
 - `mkdir ~/catkin_ws`             
 - `cd ~/catkin_ws`                  
 - `wstool init src`                    
