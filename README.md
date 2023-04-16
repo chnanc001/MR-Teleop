@@ -1,6 +1,10 @@
 # MR-Teleop
 
-## To Setup on dVRK Computer
+## Install
+- clone repo
+- 
+
+## Setup on dVRK Computer
 - `source /opt/ros/melodic/setup.bash # or whichever ros version is used`
 - `mkdir ~/catkin_ws`             
 - `cd ~/catkin_ws`                  
