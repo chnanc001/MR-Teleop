@@ -2,7 +2,6 @@
 
 ## Install
 - clone repo
-- 
 
 ## Setup on dVRK Computer
 - `source /opt/ros/melodic/setup.bash # or whichever ros version is used`
