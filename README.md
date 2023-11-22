@@ -8,6 +8,8 @@ The development and results are detailed in the following publication:
 
 [Mixed Reality Based Teleoperation of Surgical Robotics](https://ieeexplore.ieee.org/document/10130178)
 
+An Chi Chen; Muhammad Hadi; Peter Kazanzides; Ehsan Azimi
+
 ## Preview
 ### Path Planning
 In 'Path Planning' mode users can draw their desired path virtually (visible on the HoloLens 2).
