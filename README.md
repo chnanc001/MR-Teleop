@@ -1,5 +1,13 @@
 # MR-Teleop
 
+## Preview
+### Path Planning
+![Alt text](https://github.com/chnanc001/MR-Teleop/blob/master/Videos/hand_drawing.jpg?raw=true)
+
+### Teleoperating using Hand Tracking
+https://github.com/chnanc001/MR-Teleop/assets/41545306/586302ab-6c9d-42d8-ac5e-37b9c6576328
+
+
 ## Install
 - clone repo
 
