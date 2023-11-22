@@ -10,7 +10,7 @@ In 'Path Planning' mode users can draw their desired path virtually (visible on 
 ![Alt text](https://github.com/chnanc001/MR-Teleop/blob/master/Videos/hand_drawing.jpg?raw=true)
 
 ### Teleoperating using Hand Tracking
-In 'Teleoperating' mode users can control the PSM1 arm of the dVRK using hand tracking.  The robot arm will only move when the uers fingers are pinched as shown in the video below.
+In 'Teleoperating' mode users can control the PSM1 arm of the dVRK using hand tracking.  The robot arm will only move when the users fingers are pinched as shown in the video below.
 
 https://github.com/chnanc001/MR-Teleop/assets/41545306/586302ab-6c9d-42d8-ac5e-37b9c6576328
 
