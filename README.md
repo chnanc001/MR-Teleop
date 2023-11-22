@@ -1,10 +1,16 @@
 # MR-Teleop
 
+Exploring the efficacy of using hand tracking to teleoperate a robot.  
+
+This project was developed using Microsoft's HoloLens 2 and a da Vinci Research Kit robot (dVRK) with UDP communication.
+
 ## Preview
 ### Path Planning
+In 'Path Planning' mode users can draw their desired path virtually (visible on the HoloLens 2).
 ![Alt text](https://github.com/chnanc001/MR-Teleop/blob/master/Videos/hand_drawing.jpg?raw=true)
 
 ### Teleoperating using Hand Tracking
+In 'Teleoperating' mode users can control the PSM1 arm of the dVRK using hand tracking.  The robot arm will only move when the uers fingers are pinched as shown in the video below.
 https://github.com/chnanc001/MR-Teleop/assets/41545306/586302ab-6c9d-42d8-ac5e-37b9c6576328
 
 
