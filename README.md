@@ -4,6 +4,10 @@ Exploring the efficacy of using hand tracking to teleoperate a robot.
 
 This project was developed using Microsoft's HoloLens 2 and a da Vinci Research Kit robot (dVRK) with UDP communication.
 
+The development and results are detailed in the following publication:
+
+[Mixed Reality Based Teleoperation of Surgical Robotics](https://ieeexplore.ieee.org/document/10130178)
+
 ## Preview
 ### Path Planning
 In 'Path Planning' mode users can draw their desired path virtually (visible on the HoloLens 2).
