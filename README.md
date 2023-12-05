@@ -1,4 +1,4 @@
-# MR-Teleop
+# Mixed Reality Based Teleoperation of Surgical Robotics
 
 Exploring the efficacy of using hand tracking to teleoperate a robot.  
 
